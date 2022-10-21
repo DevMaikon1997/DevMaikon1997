@@ -2,19 +2,19 @@
 <h1 align="center">🦋 Welcome to My projects </h1>
 <h4 align="center">A passionate Front-End Júnior from Brazil</h4>
 
-<div>
-  
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DevMaikon1997&show_icons=True&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMaikon1997&layout=compact&langs_count=16&theme=great-gatsby"/>
-</div>
-<br>
-  
 
 <h4>👨🏽‍🎓Today I study Front-End</h4>
 <h4>👩‍💻Studying Java Script,Css3,typescript</h4>
 <h4>😃he/his pronouns</h4>
 <h4>📚studying English</h4>
 <h4>🚀Studying Systems Analysis and Development</h4>
+
+<div>
+  
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DevMaikon1997&show_icons=True&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMaikon1997&layout=compact&langs_count=16&theme=great-gatsby"/>
+</div>
+<br>
 
   
 </div>
