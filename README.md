@@ -11,8 +11,8 @@
 
 📚studying English
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=DevMaikon1997&show_icons=True&theme=radical&include_all_commits=true&count_private=true"/>
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMaikon1997&layout=compact&langs_count=7&theme=radical"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=DevMaikon1997&show_icons=True&theme=dark&include_all_commits=true&count_private=true"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMaikon1997&layout=compact&langs_count=7&theme=dark"/>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Maikon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -22,7 +22,7 @@
   <img align="center" alt="Maikon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Maikon-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Maikon-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
- <img align="right" alt="Maikon-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/dca7939e9ae8ac0092aa9ed6c5eb2c60.gif">
+ <img align="right" alt="Maikon-pic" height="200" style="border-radius:60px;" src="https://i.picasion.com/pic92/28d0eea0af92713beba2bda50ead6d8e.gif">
 </div>
   ##
 <div> 
